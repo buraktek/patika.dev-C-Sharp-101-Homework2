@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>patika.dev_C_Sharp_101_Homework2</RootNamespace>
+    <RootNamespace>Homework2_1</RootNamespace>
   </PropertyGroup>
 
 </Project>
